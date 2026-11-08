@@ -27,6 +27,4 @@ He desarrollado mi experiencia técnica en el análisis de datos y la automatiza
 
 Puedes encontrarme en la plataforma donde comparto mis análisis y progreso profesional:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/angelmv010412
-
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/angelmv010412)
